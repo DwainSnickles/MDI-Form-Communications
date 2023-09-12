@@ -1,4 +1,4 @@
-# Mdi Form Communications
+Simple Mdi Form Communications
 Allow parent form and child forms to share data between them using delegates. 
 This should also work for non Mdi forms.
 I needed a way for the parent and the child form to share information so this is how I achieved that.
